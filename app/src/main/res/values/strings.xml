@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Terminal</string>
+    <string name="terminal_tab">Terminal</string>
+    <string name="settings_tab">Settings</string>
+    <string name="wake_lock_title">Wake Lock</string>
+    <string name="wake_lock_summary">Keep device awake (prevents sleep)</string>
+    <string name="temperature_limit_title">Temperature Limit</string>
+    <string name="temperature_limit_summary">Auto-kill app when temperature exceeds limit</string>
+    <string name="memory_limit_title">Memory Limit</string>
+    <string name="memory_limit_summary">Maximum memory allocation (MB)</string>
+    <string name="storage_limit_title">Storage Limit</string>
+    <string name="storage_limit_summary">Maximum storage usage (GB)</string>
+    <string name="load_zip_title">Load .zip File</string>
+    <string name="load_zip_summary">Extract .zip to terminal home directory</string>
+    <string name="terminal_title">Terminal</string>
+</resources>
